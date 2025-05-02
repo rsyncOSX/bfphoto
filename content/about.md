@@ -1,11 +1,11 @@
 ---
 title: About
 linkTitle: About
+date: "2025-05-02"
 menu: {main: {weight: 10}}
 ---
 
-
-Hello,
+{{< lead >}}
 
 My name is Thomas, and my email address is thomeven@gmail.com. I retired from work in April 2022 at the age of 62 and
 am a passionate wildlife photographer. In my retirement, I enjoy spending time with my grandchildren, pursuing photography,
@@ -15,12 +15,13 @@ photographs that I believe are worthy of publication. I do not actively promote 
 personal resource to learn more about the birds I photograph. Each bird and animal featured on the website
 includes links to Wikipedia articles for further information.
 
+{{< /lead >}}
 
 **How are these pages constructed?**
 
 Hugo, a static site generator, serves as the web framework responsible for constructing these pages. The source code for
 this website is hosted on GitHub. Netlify, the web server, automatically detects changes made to the main branch and
-promptly rebuilds the server. The Hugo theme utilized is [docsy](https://github.com/google/docsy), another
+promptly rebuilds the server. The Hugo theme utilized is [Blowfish](https://github.com/nunocoracao/blowfish), another
 open-source project hosted on GitHub. Upon making modifications or additions to pages, I commit these changes to GitHub, and
 Netlify promptly constructs the new server within seconds.
 

@@ -12,5 +12,3 @@ cascade:
 A few of my bird photos.
 {{< /lead >}}
 
-This section contains.... 
-
