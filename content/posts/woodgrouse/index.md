@@ -22,4 +22,9 @@ Wood Grouse.
 
 {{< figure src="/images/woodgrouse/_DSC1861_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-
+{{< gallery >}}
+  <img src="/images/woodgrouse/_DSC2905_DxO.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/images/woodgrouse/_DSC2274_DxO.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/images/woodgrouse/_DSC1968_DxO.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/images/woodgrouse/_DSC1861_DxO.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
