@@ -14,18 +14,18 @@ Some other birds.
 | Nucifraga caryocatactes | [Eurasian nutcracker](https://en.wikipedia.org/wiki/Spotted_nutcracker) |  [Nøttekråke](https://no.wikipedia.org/wiki/Nøttekråke) |
 | Cygnus cygnus | [Whooper swan](https://en.wikipedia.org/wiki/Whooper_swan) |  [Sangsvane](https://no.wikipedia.org/wiki/Sangsvane) |
 
-**Common blackbird**
+### Common blackbird
 
 {{< figure src="/images/otherbirds/DSC02782_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Eurasian nutcracker**
+### Eurasian nutcracker
 
 {{< figure src="/images/otherbirds/DSC08702_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Grey heron**
+### Grey heron
 
 {{< figure src="/images/otherbirds/DSC09256_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Whooper swan**
+### Whooper swan
 
 {{< figure src="/images/otherbirds/_DSC0144_DxO.jpg" position="center" style="border-radius: 8px;" >}}

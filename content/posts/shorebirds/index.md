@@ -33,45 +33,45 @@ there are only a few hundred couples in Norway.
 | --------- |  --------- |    --------- |
 | Vanellus vanellus | [Northern lapwing](https://en.wikipedia.org/wiki/Northern_lapwing) |  [Vipe](https://no.wikipedia.org/wiki/Vipe) |
 
-**Black-tailed godwit**
+### Black-tailed godwit
 
 {{< figure src="/images/shorebirds/DSC07068_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Bar-tailed godwit**
+### Bar-tailed godwit
 
 {{< figure src="/images/shorebirds/DSC06712_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Eurasian curlew**
+### Eurasian curlew
 
 {{< figure src="/images/shorebirds/DSC05068_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Common greenshank**
+### Common greenshank
 
 {{< figure src="/images/shorebirds/DSC06765_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Red knot**
+### Red knot
 
 {{< figure src="/images/shorebirds/DSC04883_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/shorebirds/DSC04896_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Green sandpiper**
+### Green sandpiper
 
 {{< figure src="/images/shorebirds/_DSC2872_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Common redshank**
+### Common redshank
 
 {{< figure src="/images/shorebirds/DSC02578_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/shorebirds/DSC02274_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Wood sandpiper**
+### Wood sandpiper
 
 {{< figure src="/images/shorebirds/DSC06030_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Common sandpiper**
+### Common sandpiper
 
 {{< figure src="/images/shorebirds/_DSC0902_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Northern lapwing**
+### Northern lapwing
 
 {{< figure src="/images/shorebirds/_DSC0057_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/shorebirds/DSC00357_DxO.jpg" position="center" style="border-radius: 8px;" >}}

@@ -13,18 +13,18 @@ Some finches.
 | Chloris chloris | [European greenfinch](https://en.wikipedia.org/wiki/European_greenfinch) |  [Grønnfink](https://no.wikipedia.org/wiki/Grønnfink) |
 | Pinicola enucleator | [Pine grosbeak](https://en.wikipedia.org/wiki/Pine_grosbeak) |  [Konglebit](https://no.wikipedia.org/wiki/Konglebit) |
 
-**Eurasian bullfinch**
+### Eurasian bullfinch
 
 {{< figure src="/images/finches/_DSC5689_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**European greenfinch**
+### European greenfinch
 
 {{< figure src="/images/finches/DSC08158_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Brambling**
+### Brambling
 
 {{< figure src="/images/finches/DSC08203_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Pine grosbeak**
+### Pine grosbeak
 
 {{< figure src="/images/finches/_DSC7159_DxO.jpg" position="center" style="border-radius: 8px;" >}}

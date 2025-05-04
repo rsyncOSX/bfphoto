@@ -15,18 +15,18 @@ Eurasian nuthatch, Eurasian blue tit,  Long-tailed tit and yellowhammer.
 | Sitta europaea | [Eurasian nuthatch](https://en.wikipedia.org/wiki/Eurasian_nuthatch) |  [Spettmeis](https://no.wikipedia.org/wiki/Spettmeis) |
 | Emberiza citrinella | [Yellowhammer](https://en.wikipedia.org/wiki/Yellowhammer) |  [Gulspurv](https://no.wikipedia.org/wiki/Gulspurv) |
 
-**Long-tailed tit**
+### Long-tailed tit
 
 {{< figure src="/images/tits/DSC01394_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Eurasian blue tit**
+### Eurasian blue tit
 
 {{< figure src="/images/tits/DSC01708_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Eurasian nuthatch**
+### Eurasian nuthatch
 
 {{< figure src="/images/tits/DSC08463_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Yellowhammer**
+### Yellowhammer
 
 {{< figure src="/images/tits/DSC07456_DxO.jpg" position="center" style="border-radius: 8px;" >}}

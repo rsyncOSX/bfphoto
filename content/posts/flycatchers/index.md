@@ -15,19 +15,19 @@ The Common redstart is, in my opinion, one the most beautiful small birds in Nor
 | Luscinia svecica | [Bluethroat](https://en.wikipedia.org/wiki/Bluethroat) |  [Blåstrupe](https://no.wikipedia.org/wiki/Bl%C3%A5strupe) |
 | Saxicola rubicola | [European stonechat](https://en.wikipedia.org/wiki/European_stonechat) |  [Svartstrupe](https://no.wikipedia.org/wiki/Svartstrupe) |
 
-**Common redstart**
+### Common redstart
 
 {{< figure src="/images/flycatchers/_DSC0250_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/flycatchers/_DSC2707_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**European robin**
+### European robin
 
 {{< figure src="/images/flycatchers/_DSC2767_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/flycatchers/_DSC5925_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**European pied flycatcher**
+### European pied flycatcher
 
 {{< figure src="/images/flycatchers/_DSC2807_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -35,12 +35,12 @@ The Common redstart is, in my opinion, one the most beautiful small birds in Nor
 
 {{< figure src="/images/flycatchers/DSC06305_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Bluethroat**
+### Bluethroat
 
 {{< figure src="/images/flycatchers/DSC08362_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/flycatchers/DSC08874_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**European stonechat**
+### European stonechat
 
 {{< figure src="/images/flycatchers/_DSC6432_DxO.jpg" position="center" style="border-radius: 8px;" >}}

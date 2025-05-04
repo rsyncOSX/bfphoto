@@ -1,8 +1,10 @@
 +++
 author = "Thomas Evensen"
-title = "All birds"
+title = "All birds & animals"
 date = "2025-05-04"
 +++
+
+On this page all birds and animals are listet. There is only one photo of each bird and animal, but within the Photos section there are more photos of each bird. There are photos of about 80 birds and 7 animals.
 
 ### Divers (5)
 
@@ -29,18 +31,12 @@ date = "2025-05-04"
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 |  Falco peregrinus |  [Peregrine falcon](https://en.wikipedia.org/wiki/Peregrine_falcon) |  [Vandrefalk](https://no.wikipedia.org/wiki/Vandrefalk) |
+|  Falco subbuteo |  [Eurasian hobby](https://en.wikipedia.org/wiki/Eurasian_hobby) |  [Lerkefalk](https://no.wikipedia.org/wiki/Lerkefalk) |
+|  Falco tinnunculus |  [Common kestrel](https://en.wikipedia.org/wiki/Common_kestrel) |  [Tårnfalk](https://no.wikipedia.org/wiki/Tårnfalk) |
 
 {{< figure src="/images/peregrinefalcon/_DSC2458_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|  Falco subbuteo |  [Eurasian hobby](https://en.wikipedia.org/wiki/Eurasian_hobby) |  [Lerkefalk](https://no.wikipedia.org/wiki/Lerkefalk) |
-
 {{< figure src="/images/eurasianhobby/_DSC3684_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|  Falco tinnunculus |  [Common kestrel](https://en.wikipedia.org/wiki/Common_kestrel) |  [Tårnfalk](https://no.wikipedia.org/wiki/Tårnfalk) |
 
 {{< figure src="/images/commonkestrel/_DSC1134_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -57,24 +53,15 @@ date = "2025-05-04"
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 |  Circus aeruginosus |  [Western marsh harrier](https://en.wikipedia.org/wiki/Western_marsh_harrier) |  [Sivhauk](https://no.wikipedia.org/wiki/Sivhauk) |
+|  Accipiter nisus |  [Eurasian sparrowhawk](https://en.wikipedia.org/wiki/Eurasian_sparrowhawk) |  [Spurvehauk](https://no.wikipedia.org/wiki/Spurvehauk) |
+|  Circus cyaneus |  [Hen harrier](https://en.wikipedia.org/wiki/Hen_harrier) |  [Myrhauk](https://no.wikipedia.org/wiki/Myrhauk) |
+| Astur gentilis |  [Eurasian goshawk](https://en.wikipedia.org/wiki/Eurasian_goshawk) | [Hønsehauk](https://no.wikipedia.org/wiki/Hønsehauk) |
 
 {{< figure src="/images/marshharrier/_DSC0531_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|  Accipiter nisus |  [Eurasian sparrowhawk](https://en.wikipedia.org/wiki/Eurasian_sparrowhawk) |  [Spurvehauk](https://no.wikipedia.org/wiki/Spurvehauk) |
-
 {{< figure src="/images/sparrowhawk/DSC05816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|  Circus cyaneus |  [Hen harrier](https://en.wikipedia.org/wiki/Hen_harrier) |  [Myrhauk](https://no.wikipedia.org/wiki/Myrhauk) |
-
 {{< figure src="/images/henharrier/_DSC8347_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Astur gentilis |  [Eurasian goshawk](https://en.wikipedia.org/wiki/Eurasian_goshawk) | [Hønsehauk](https://no.wikipedia.org/wiki/Hønsehauk) |
 
 {{< figure src="/images/goshawk/DSC07369_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -85,22 +72,13 @@ date = "2025-05-04"
 | Limosa limosa  | [Black-tailed godwit](https://en.wikipedia.org/wiki/Black-tailed_godwit) |   [Svarthalespove](https://no.wikipedia.org/wiki/Svarthalespove)    |
 | Numenius arquata  | [Eurasian curlew](https://en.wikipedia.org/wiki/Eurasian_curlew) |   [Storspove](https://no.wikipedia.org/wiki/Storspove)     |
 | Limosa lapponica  | [Bar-tailed godwit](https://en.wikipedia.org/wiki/Bar-tailed_godwit) |   [Lappspove](https://no.wikipedia.org/wiki/Lappspove)     |
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
 | Tringa nebularia  | [Common greenshank](https://en.wikipedia.org/wiki/Common_greenshank) |   [Gluttsnipe](https://no.wikipedia.org/wiki/Gluttsnipe)     |
 | Calidris canutus  | [Red knot](https://en.wikipedia.org/wiki/Red_knot) |   [Polarsnipe](https://no.wikipedia.org/wiki/Polarsnipe)     |
 | T⁠ringa ochropus  | [Green sandpiper](https://en.wikipedia.org/wiki/Green_sandpiper) |   [Skogsnipe](https://no.wikipedia.org/wiki/Skogsnipe)     |
 | Calidris alpina  | [Dunlin](https://en.wikipedia.org/wiki/Dunlin) |   [Myrsnipe](https://no.wikipedia.org/wiki/Myrsnipe)    |
 | Actitis hypoleucos  | [Common sandpiper](https://en.wikipedia.org/wiki/Common_sandpiper) |   [Strandsnipe](https://no.wikipedia.org/wiki/Strandsnipe)     |
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
 | Tringa totanus | [Common redshank](https://en.wikipedia.org/wiki/Common_redshank) |  [Rødstilk](https://no.wikipedia.org/wiki/R%C3%B8dstilk) |
 | Tringa glareola | [Wood sandpipe](https://en.wikipedia.org/wiki/Wood_sandpiper) |  [Grønnstilk](https://no.wikipedia.org/wiki/Grønnstilk) |
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
 | Vanellus vanellus | [Northern lapwing](https://en.wikipedia.org/wiki/Northern_lapwing) |  [Vipe](https://no.wikipedia.org/wiki/Vipe) |
 
 {{< figure src="/images/shorebirds/DSC07068_DxO.jpg" position="center" style="border-radius: 8px;" >}}
@@ -180,17 +158,14 @@ date = "2025-05-04"
 
 | Latin                 | UK                                                                     | Norwegian                                              |
 |-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
-| Tetrao urogallus        | [Wood Grouse](https://en.wikipedia.org/wiki/Western_capercaillie)  | [Tiur, storfugl](https://no.wikipedia.org/wiki/Storfugl)        |
+| Tetrao urogallus        | [Wood Grouse](https://en.wikipedia.org/wiki/Western_capercaillie)  | [Tiur, storfugl](https://no.wikipedia.org/wiki/Storfugl) |
+| Lyrurus tetrix        | [Black Grouse](https://en.wikipedia.org/wiki/Black_grouse)             | [Orrfugl](https://no.wikipedia.org/wiki/Orrfugl)        |
 
 {{< figure src="/images/woodgrouse/_DSC2905_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-| Latin                 | UK                                                                     | Norwegian                                              |
-|-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
-| Lyrurus tetrix        | [Black Grouse](https://en.wikipedia.org/wiki/Black_grouse)             | [Orrfugl](https://no.wikipedia.org/wiki/Orrfugl)        |
+{{< figure src="/images/blackgrouse/_DSC7209_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Passerines (6)
-
-{{< figure src="/images/blackgrouse/_DSC7209_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -224,17 +199,14 @@ date = "2025-05-04"
 |   Latin  | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Ovibos moschatus | [Muskox](https://en.wikipedia.org/wiki/Muskox) | [Moskusfe](https://no.wikipedia.org/wiki/Moskusfe) |
-
-{{< figure src="/images/muskox/DSC08980_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-| Latin     | UK | Norwegian |
-| --------- |  --------- |    --------- |
 | Alces alces | [Moose](https://en.wikipedia.org/wiki/Moose) | [Elg](https://no.wikipedia.org/wiki/Elg) |
 | Lepus timidus | [Mountain hare](https://en.wikipedia.org/wiki/Mountain_hare) | [Hare](https://no.wikipedia.org/wiki/Hare) |
 | Capreolus capreolus  | [Roe deer](https://en.wikipedia.org/wiki/Roe_deer) | [Rådyr](https://no.wikipedia.org/wiki/Rådyr) |
 | Vulpes vulpes | [Red fox](https://en.wikipedia.org/wiki/Red_fox) |  [Rødrev](https://no.wikipedia.org/wiki/Rødrev) |
 | Sciurus vulgaris | [Red squirrel](https://en.wikipedia.org/wiki/Red_squirrel) |  [Ekorn](https://no.wikipedia.org/wiki/Ekorn)|
 | Cervus elaphus | [Red deer](https://en.wikipedia.org/wiki/Red_deer) |  [Hjort](https://no.wikipedia.org/wiki/Hjort)|
+
+{{< figure src="/images/muskox/DSC08980_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/otheranimals/DSC00704_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -408,11 +380,8 @@ date = "2025-05-04"
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Haliaeetus albicilla |  [White-tailed eagle](https://en.wikipedia.org/wiki/White-tailed_eagle) | [Havørn](https://no.wikipedia.org/wiki/Hav%C3%B8rn) |
+| Pandion haliaetus |  [Osprey](https://en.wikipedia.org/wiki/Osprey) | [Fiskeørn](https://no.wikipedia.org/wiki/Fiske%C3%B8rn) |
 
 {{< figure src="/images/whitetailed/DSC01484_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Pandion haliaetus |  [Osprey](https://en.wikipedia.org/wiki/Osprey) | [Fiskeørn](https://no.wikipedia.org/wiki/Fiske%C3%B8rn) |
 
 {{< figure src="/images/osprey/DSC05364_DxO.jpg" position="center" style="border-radius: 8px;" >}}

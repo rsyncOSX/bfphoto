@@ -22,7 +22,7 @@ has often let me come very close, about 4-5 meters. Others again fly away if I c
 | Strix aluco  | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl) |   [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
 | Glaucidium passerinum  |  [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle)    |
 
-**Northern hawk-owl**
+### Northern hawk-owl
 
 {{< figure src="/images/owls/_DSC6411_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/_DSC6652_DxO.jpg" position="center" style="border-radius: 8px;" >}}
@@ -30,18 +30,18 @@ has often let me come very close, about 4-5 meters. Others again fly away if I c
 {{< figure src="/images/owls/_DSC4060_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/_DSC5901_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Short-eared owl**
+### Short-eared owl
 
 {{< figure src="/images/owls/DSC04816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/DSC04820_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/DSC04676_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Tawny owl**
+### Tawny owl
 
 {{< figure src="/images/owls/DSC00349_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/DSC03983_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Eurasian pygmy owl**
+### Eurasian pygmy owl
 
 {{< figure src="/images/owls/DSC09476_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/DSC09500_DxO.jpg" position="center" style="border-radius: 8px;" >}}

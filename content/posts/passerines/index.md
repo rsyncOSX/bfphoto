@@ -17,29 +17,32 @@ and it is constantly on the move searching for insects.
 | Certhia familiaris | [Eurasian treecreeper](https://en.wikipedia.org/wiki/Eurasian_treecreeper) |  [Trekryper](https://no.wikipedia.org/wiki/Trekryper) |
 | Alauda arvensis | [Eurasian skylark](https://en.wikipedia.org/wiki/Eurasian_skylark) |  [Sanglerke](https://no.wikipedia.org/wiki/Sanglerke) |
 
-**Coldcrest**
+### Coldcrest
 
 {{< figure src="/images/passerines/DSC07419_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
 {{< figure src="/images/passerines/DSC09708_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Eurasian treecreeper**
+### Eurasian treecreeper
 
 {{< figure src="/images/passerines/DSC02147_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Common redpoll**
+### Common redpoll
 
 {{< figure src="/images/passerines/DSC02194_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
 {{< figure src="/images/passerines/DSC02284_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Common reed bunting**
+### Common reed bunting
 
 {{< figure src="/images/passerines/_DSC3649_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
 {{< figure src="/images/passerines/DSC05532_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Common whitethroat**
+### Common whitethroat
 
 {{< figure src="/images/passerines/_DSC8678_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Eurasian skylark**
+### Eurasian skylark
 
 {{< figure src="/images/passerines/_DSC4885_DxO.jpg" position="center" style="border-radius: 8px;" >}}
