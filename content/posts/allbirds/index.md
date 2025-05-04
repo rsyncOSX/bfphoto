@@ -4,6 +4,8 @@ title = "All birds"
 date = "2025-05-04"
 +++
 
+#### Divers (5)
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Mergellus albellus  |  [Smew](https://en.wikipedia.org/wiki/Smew) | [Lappfiskand](https://no.wikipedia.org/wiki/Lappfiskand) |
@@ -22,6 +24,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/divers/_DSC0140_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+#### Falcons(3)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -31,7 +34,29 @@ date = "2025-05-04"
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
+|  Falco subbuteo |  [Eurasian hobby](https://en.wikipedia.org/wiki/Eurasian_hobby) |  [Lerkefalk](https://no.wikipedia.org/wiki/Lerkefalk) |
+
+{{< figure src="/images/eurasianhobby/_DSC3684_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+|  Falco tinnunculus |  [Common kestrel](https://en.wikipedia.org/wiki/Common_kestrel) |  [Tårnfalk](https://no.wikipedia.org/wiki/Tårnfalk) |
+
+#### Buzzard (1)
+
+{{< figure src="/images/commonkestrel/_DSC1134_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
 | Buteo buteo |  [Common buzzard](https://en.wikipedia.org/wiki/Common_buzzard) |  [Musvåk](https://no.wikipedia.org/wiki/Musv%C3%A5k) |
+
+#### Hawks(4)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+|  Circus aeruginosus |  [Western marsh harrier](https://en.wikipedia.org/wiki/Western_marsh_harrier) |  [Sivhauk](https://no.wikipedia.org/wiki/Sivhauk) |
+
+{{< figure src="/images/marshharrier/_DSC0531_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/commonbuzzard/_DSC8767_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -41,6 +66,19 @@ date = "2025-05-04"
 
 {{< figure src="/images/sparrowhawk/DSC05816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+|  Circus cyaneus |  [Hen harrier](https://en.wikipedia.org/wiki/Hen_harrier) |  [Myrhauk](https://no.wikipedia.org/wiki/Myrhauk) |
+
+{{< figure src="/images/henharrier/_DSC8347_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Astur gentilis |  [Eurasian goshawk](https://en.wikipedia.org/wiki/Eurasian_goshawk) | [Hønsehauk](https://no.wikipedia.org/wiki/Hønsehauk) |
+
+{{< figure src="/images/goshawk/DSC07369_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+#### Waders (11)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -85,11 +123,15 @@ date = "2025-05-04"
 
 {{< figure src="/images/shorebirds/_DSC0057_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+#### Dipper (1)
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Cinclus cinclus | [White-throated dipper](https://en.wikipedia.org/wiki/White-throated_dipper) |  [Fossekall](https://no.wikipedia.org/wiki/Fossekall) |
 
 {{< figure src="/images/dipper/_DSC0901_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+#### Seabirds (5)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -109,13 +151,14 @@ date = "2025-05-04"
 
 {{< figure src="/images/seabirds/_DSC8971_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+#### Wagtails (4)
+
 | Latin      | UK  | Norwegian |
 | --------- |  --------- |    --------- |
 | Motacilla flava | [Western yellow wagtail ](https://en.wikipedia.org/wiki/Western_yellow_wagtail) |  [Gulerle ](https://no.wikipedia.org/wiki/Gulerle) |
 | Motacilla alba | [White wagtail](https://en.wikipedia.org/wiki/White_wagtail) |  [Linerle ](https://no.wikipedia.org/wiki/Linerle) |
 | Motacilla citreola | [Citrine wagtail](https://en.wikipedia.org/wiki/Citrine_wagtail) |  [Sitronerle ](https://no.wikipedia.org/wiki/Sitronerle) |
 | Motacilla cinerea | [Grey wagtail](https://en.wikipedia.org/wiki/Grey_wagtail) | [Vintererle ](https://no.wikipedia.org/wiki/Vintererle) |
-
 
 {{< figure src="/images/wagtails/DSC06964_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -125,17 +168,21 @@ date = "2025-05-04"
 
 {{< figure src="/images/wagtails/_DSC4779_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|  Circus cyaneus |  [Hen harrier](https://en.wikipedia.org/wiki/Hen_harrier) |  [Myrhauk](https://no.wikipedia.org/wiki/Myrhauk) |
-
-{{< figure src="/images/henharrier/_DSC8347_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+#### Puffin (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Fratercula arctica | [Atlantic puffin](https://en.wikipedia.org/wiki/Atlantic_puffin) |  [Lunde (fugl)](https://no.wikipedia.org/wiki/Lunde_(fugl)) |
 
 {{< figure src="/images/puffins/_DSC6531_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+#### Grouse (2)
+
+| Latin                 | UK                                                                     | Norwegian                                              |
+|-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
+| Tetrao urogallus        | [Wood Grouse](https://en.wikipedia.org/wiki/Western_capercaillie)  | [Tiur, storfugl](https://no.wikipedia.org/wiki/Storfugl)        |
+
+{{< figure src="/images/woodgrouse/_DSC2905_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 | Latin                 | UK                                                                     | Norwegian                                              |
 |-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
@@ -152,7 +199,6 @@ date = "2025-05-04"
 | Certhia familiaris | [Eurasian treecreeper](https://en.wikipedia.org/wiki/Eurasian_treecreeper) |  [Trekryper](https://no.wikipedia.org/wiki/Trekryper) |
 | Alauda arvensis | [Eurasian skylark](https://en.wikipedia.org/wiki/Eurasian_skylark) |  [Sanglerke](https://no.wikipedia.org/wiki/Sanglerke) |
 
-
 {{< figure src="/images/passerines/DSC07419_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/passerines/DSC02147_DxO.jpg" position="center" style="border-radius: 8px;" >}}
@@ -163,6 +209,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/passerines/_DSC8678_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+#### Plover (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -191,6 +238,8 @@ date = "2025-05-04"
 
 {{< figure src="/images/otherbirds/_DSC0144_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+#### Woodpeckers (4)
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Picus viridis | [European green woodpecker](https://en.wikipedia.org/wiki/European_green_woodpecker) |  [Grønnspett](https://no.wikipedia.org/wiki/Grønnspett) |
@@ -212,13 +261,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/osprey/DSC05364_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-The Eurasian hobby capture and eat dragonflies.
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|  Falco subbuteo |  [Eurasian hobby](https://en.wikipedia.org/wiki/Eurasian_hobby) |  [Lerkefalk](https://no.wikipedia.org/wiki/Lerkefalk) |
-
-{{< figure src="/images/eurasianhobby/_DSC3684_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+#### Warblers (3)
 
 | Latin      | UK  | Norwegian |
 | --------- |  --------- |    --------- |
@@ -231,6 +274,8 @@ The Eurasian hobby capture and eat dragonflies.
 {{< figure src="/images/singers/_DSC8915_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/singers/_DSC8925_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+#### Finches (4)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -247,6 +292,8 @@ The Eurasian hobby capture and eat dragonflies.
 
 {{< figure src="/images/finches/_DSC7159_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+#### Grebes (2)
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Podiceps cristatus  | [Great crested grebe](https://en.wikipedia.org/wiki/Great_crested_grebe) | [Toppdykker](https://no.wikipedia.org/wiki/Toppdykker) |
@@ -256,19 +303,7 @@ The Eurasian hobby capture and eat dragonflies.
 
 {{< figure src="/images/grebes/DSC09396_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/selected/_DSC6411_DxO.png" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/selected/_DSC6362_DxO.png" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/selected/DSC01484_DxO.png" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/selected/_DSC6655_DxO.png" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/selected/_DSC1776_DxO.png" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/selected/_DSC1672_DxO.png" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/selected/_DSC3656_DxO.png" position="center" style="border-radius: 8px;" >}}
+#### Owls (4)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -285,12 +320,15 @@ The Eurasian hobby capture and eat dragonflies.
 
 {{< figure src="/images/owls/DSC09476_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+#### Ptarmigan (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Lagopus lagopus | [Willow ptarmigan](https://en.wikipedia.org/wiki/Willow_ptarmigan) |  [Lirype](https://no.wikipedia.org/wiki/Lirype) |
 
 {{< figure src="/images/ptarmigan/DSC08056_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+#### Flycatchers (5)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -308,12 +346,7 @@ The Eurasian hobby capture and eat dragonflies.
 
 {{< figure src="/images/flycatchers/DSC08362_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-
-| Latin                 | UK                                                                     | Norwegian                                              |
-|-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
-| Tetrao urogallus        | [Wood Grouse](https://en.wikipedia.org/wiki/Western_capercaillie)  | [Tiur, storfugl](https://no.wikipedia.org/wiki/Storfugl)        |
-
-{{< figure src="/images/woodgrouse/_DSC2905_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+#### Tits (4)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -330,11 +363,6 @@ The Eurasian hobby capture and eat dragonflies.
 
 {{< figure src="/images/tits/DSC07456_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Astur gentilis |  [Eurasian goshawk](https://en.wikipedia.org/wiki/Eurasian_goshawk) | [Hønsehauk](https://no.wikipedia.org/wiki/Hønsehauk) |
-
-{{< figure src="/images/goshawk/DSC07369_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 | Latin     | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -357,6 +385,8 @@ The Eurasian hobby capture and eat dragonflies.
 
 {{< figure src="/images/otheranimals/DSC09127_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+#### Jays (2)
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Perisoreus infaustus | [Siberian jay](https://en.wikipedia.org/wiki/Siberian_jay) |  [Lavskrike](https://no.wikipedia.org/wiki/Lavskrike) |
@@ -366,6 +396,7 @@ The Eurasian hobby capture and eat dragonflies.
 
 {{< figure src="/images/jays/DSC09183_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+#### Crane (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -373,17 +404,7 @@ The Eurasian hobby capture and eat dragonflies.
 
 {{< figure src="/images/commoncrane/DSC08727_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|  Circus aeruginosus |  [Western marsh harrier](https://en.wikipedia.org/wiki/Western_marsh_harrier) |  [Sivhauk](https://no.wikipedia.org/wiki/Sivhauk) |
-
-{{< figure src="/images/marshharrier/_DSC0531_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|  Falco tinnunculus |  [Common kestrel](https://en.wikipedia.org/wiki/Common_kestrel) |  [Tårnfalk](https://no.wikipedia.org/wiki/Tårnfalk) |
-
-{{< figure src="/images/commonkestrel/_DSC1134_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+#### Eagle (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
