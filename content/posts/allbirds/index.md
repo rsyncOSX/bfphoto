@@ -4,7 +4,7 @@ title = "All birds"
 date = "2025-05-04"
 +++
 
-#### Divers (5)
+### Divers (5)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -24,7 +24,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/divers/_DSC0140_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Falcons(3)
+### Falcons(3)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -42,23 +42,23 @@ date = "2025-05-04"
 | --------- |  --------- |    --------- |
 |  Falco tinnunculus |  [Common kestrel](https://en.wikipedia.org/wiki/Common_kestrel) |  [Tårnfalk](https://no.wikipedia.org/wiki/Tårnfalk) |
 
-#### Buzzard (1)
-
 {{< figure src="/images/commonkestrel/_DSC1134_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Buzzard (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Buteo buteo |  [Common buzzard](https://en.wikipedia.org/wiki/Common_buzzard) |  [Musvåk](https://no.wikipedia.org/wiki/Musv%C3%A5k) |
 
-#### Hawks(4)
+{{< figure src="/images/commonbuzzard/_DSC8767_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Hawks(4)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 |  Circus aeruginosus |  [Western marsh harrier](https://en.wikipedia.org/wiki/Western_marsh_harrier) |  [Sivhauk](https://no.wikipedia.org/wiki/Sivhauk) |
 
 {{< figure src="/images/marshharrier/_DSC0531_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/commonbuzzard/_DSC8767_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -78,7 +78,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/goshawk/DSC07369_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Waders (11)
+### Waders (11)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -123,7 +123,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/shorebirds/_DSC0057_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Dipper (1)
+### Dipper (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -131,7 +131,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/dipper/_DSC0901_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Seabirds (5)
+### Seabirds (5)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -151,7 +151,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/seabirds/_DSC8971_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Wagtails (4)
+### Wagtails (4)
 
 | Latin      | UK  | Norwegian |
 | --------- |  --------- |    --------- |
@@ -168,7 +168,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/wagtails/_DSC4779_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Puffin (1)
+### Puffin (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -176,7 +176,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/puffins/_DSC6531_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Grouse (2)
+### Grouse (2)
 
 | Latin                 | UK                                                                     | Norwegian                                              |
 |-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
@@ -187,6 +187,8 @@ date = "2025-05-04"
 | Latin                 | UK                                                                     | Norwegian                                              |
 |-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
 | Lyrurus tetrix        | [Black Grouse](https://en.wikipedia.org/wiki/Black_grouse)             | [Orrfugl](https://no.wikipedia.org/wiki/Orrfugl)        |
+
+### Passerines (6)
 
 {{< figure src="/images/blackgrouse/_DSC7209_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -209,7 +211,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/passerines/_DSC8678_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Plover (1)
+### Plover (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -217,152 +219,13 @@ date = "2025-05-04"
 
 {{< figure src="/images/plover/DSC03944_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+### Animals (7)
+
 |   Latin  | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Ovibos moschatus | [Muskox](https://en.wikipedia.org/wiki/Muskox) | [Moskusfe](https://no.wikipedia.org/wiki/Moskusfe) |
 
 {{< figure src="/images/muskox/DSC08980_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|Turdus merula | [Common blackbird](https://en.wikipedia.org/wiki/Common_blackbird) |  [Svarttrost](https://no.wikipedia.org/wiki/Svarttrost) |
-| Ardea cinerea | [Grey heron](https://en.wikipedia.org/wiki/Grey_heron) |  [Gråhegre](https://no.wikipedia.org/wiki/Gråhegre) |
-| Nucifraga caryocatactes | [Eurasian nutcracker](https://en.wikipedia.org/wiki/Spotted_nutcracker) |  [Nøttekråke](https://no.wikipedia.org/wiki/Nøttekråke) |
-| Cygnus cygnus | [Whooper swan](https://en.wikipedia.org/wiki/Whooper_swan) |  [Sangsvane](https://no.wikipedia.org/wiki/Sangsvane) |
-
-{{< figure src="/images/otherbirds/DSC02782_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/otherbirds/DSC08702_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/otherbirds/DSC09256_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/otherbirds/_DSC0144_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-#### Woodpeckers (4)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Picus viridis | [European green woodpecker](https://en.wikipedia.org/wiki/European_green_woodpecker) |  [Grønnspett](https://no.wikipedia.org/wiki/Grønnspett) |
-| Dryocopus martius | [Black woodpecker](https://en.wikipedia.org/wiki/Black_woodpecker) |  [Svartspett](https://no.wikipedia.org/wiki/Svartspett) |
-| Picoides minor) | [Lesser spotted woodpecker](https://en.wikipedia.org/wiki/Lesser_spotted_woodpecker) |  [Dvergspett](https://no.wikipedia.org/wiki/Dvergspett) |
-| Dendrocopos major | [Great spotted woodpecker](https://en.wikipedia.org/wiki/Great_spotted_woodpecker) |  [Flaggspett](https://no.wikipedia.org/wiki/Flaggspett) |
-
-{{< figure src="/images/woodpeckers/_DSC0436_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/woodpeckers/_DSC0842_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/woodpeckers/DSC08383_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/woodpeckers/_DSC4603_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Pandion haliaetus |  [Osprey](https://en.wikipedia.org/wiki/Osprey) | [Fiskeørn](https://no.wikipedia.org/wiki/Fiske%C3%B8rn) |
-
-{{< figure src="/images/osprey/DSC05364_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-#### Warblers (3)
-
-| Latin      | UK  | Norwegian |
-| --------- |  --------- |    --------- |
-| Phylloscopus trochilus | [Willow warbler](https://en.wikipedia.org/wiki/Willow_warbler) |  [Løvsanger ](https://no.wikipedia.org/wiki/Løvsanger) |
-| Phylloscopus sibilatrix | [Wood warbler](https://en.wikipedia.org/wiki/Wood_warbler) |  [Bøksanger ](https://no.wikipedia.org/wiki/Bøksanger) |
-| Sylvia atricapilla | [Eurasian blackcap](https://en.wikipedia.org/wiki/Eurasian_blackcap) |  [Munk ](https://no.wikipedia.org/wiki/Munk_(fugl)) |
-
-{{< figure src="/images/singers/DSC06657_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/singers/_DSC8915_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/singers/_DSC8925_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-#### Finches (4)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Pyrrhula pyrrhula | [Eurasian bullfinch](https://en.wikipedia.org/wiki/Eurasian_bullfinch) |  [Dompap](https://no.wikipedia.org/wiki/Dompap) |
-| Fringilla montifringilla | [Brambling](https://en.wikipedia.org/wiki/Brambling) |  [Bjørkefink](https://nn.wikipedia.org/wiki/Bjørkefink)  |
-| Chloris chloris | [European greenfinch](https://en.wikipedia.org/wiki/European_greenfinch) |  [Grønnfink](https://no.wikipedia.org/wiki/Grønnfink) |
-| Pinicola enucleator | [Pine grosbeak](https://en.wikipedia.org/wiki/Pine_grosbeak) |  [Konglebit](https://no.wikipedia.org/wiki/Konglebit) |
-
-{{< figure src="/images/finches/_DSC5689_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/finches/DSC08158_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/finches/DSC08203_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/finches/_DSC7159_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-#### Grebes (2)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Podiceps cristatus  | [Great crested grebe](https://en.wikipedia.org/wiki/Great_crested_grebe) | [Toppdykker](https://no.wikipedia.org/wiki/Toppdykker) |
-| Podiceps auritus  | [Horned grebe](https://en.wikipedia.org/wiki/Horned_grebe) | [Horndykker](https://no.wikipedia.org/wiki/Horndykker) |
-
-{{< figure src="/images/grebes/DSC09592_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/grebes/DSC09396_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-#### Owls (4)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Surnia ulula  |  [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl) | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)    |
-| Asio flammeus  | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl) |   [Jordugle](https://no.wikipedia.org/wiki/Jordugle)    |
-| Strix aluco  | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl) |   [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
-| Glaucidium passerinum  |  [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle)    |
-
-{{< figure src="/images/owls/_DSC6411_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/owls/DSC04816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/owls/DSC03983_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/owls/DSC09476_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-#### Ptarmigan (1)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Lagopus lagopus | [Willow ptarmigan](https://en.wikipedia.org/wiki/Willow_ptarmigan) |  [Lirype](https://no.wikipedia.org/wiki/Lirype) |
-
-{{< figure src="/images/ptarmigan/DSC08056_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-#### Flycatchers (5)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Phoenicurus phoenicurus | [Common redstart](https://en.wikipedia.org/wiki/Common_redstart) |  [Rødstjert](https://no.wikipedia.org/wiki/Rødstjert) |
-| Ficedula hypoleuca | [European pied flycatcher](https://en.wikipedia.org/wiki/European_pied_flycatcher) |  [Svarthvit fluesnapper](https://no.wikipedia.org/wiki/Svarthvit_fluesnapper) |
-| Erithacus rubecula | [European robin](https://en.wikipedia.org/wiki/European_robin) |  [Rødstrupe](https://no.wikipedia.org/wiki/Rødstrupe) |
-| Luscinia svecica | [Bluethroat](https://en.wikipedia.org/wiki/Bluethroat) |  [Blåstrupe](https://no.wikipedia.org/wiki/Bl%C3%A5strupe) |
-| Saxicola rubicola | [European stonechat](https://en.wikipedia.org/wiki/European_stonechat) |  [Svartstrupe](https://no.wikipedia.org/wiki/Svartstrupe) |
-
-{{< figure src="/images/flycatchers/_DSC0250_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/flycatchers/_DSC5925_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/flycatchers/_DSC2807_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/flycatchers/DSC08362_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-#### Tits (4)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Cyanistes caeruleus | [Eurasian blue tit](https://en.wikipedia.org/wiki/Eurasian_blue_tit) |  [Blåmeis](https://no.wikipedia.org/wiki/Blåmeis) |
-| Aegithalos caudatus | [Long-tailed tit](https://en.wikipedia.org/wiki/Long-tailed_tit) |  [Stjertmeis](https://nn.wikipedia.org/wiki/Stjertmeis) |
-| Sitta europaea | [Eurasian nuthatch](https://en.wikipedia.org/wiki/Eurasian_nuthatch) |  [Spettmeis](https://no.wikipedia.org/wiki/Spettmeis) |
-| Emberiza citrinella | [Yellowhammer](https://en.wikipedia.org/wiki/Yellowhammer) |  [Gulspurv](https://no.wikipedia.org/wiki/Gulspurv) |
-
-{{< figure src="/images/tits/DSC01394_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/tits/DSC01708_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/tits/DSC08463_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/tits/DSC07456_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
 
 | Latin     | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -385,7 +248,143 @@ date = "2025-05-04"
 
 {{< figure src="/images/otheranimals/DSC09127_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Jays (2)
+### Other birds (4)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+|Turdus merula | [Common blackbird](https://en.wikipedia.org/wiki/Common_blackbird) |  [Svarttrost](https://no.wikipedia.org/wiki/Svarttrost) |
+| Ardea cinerea | [Grey heron](https://en.wikipedia.org/wiki/Grey_heron) |  [Gråhegre](https://no.wikipedia.org/wiki/Gråhegre) |
+| Nucifraga caryocatactes | [Eurasian nutcracker](https://en.wikipedia.org/wiki/Spotted_nutcracker) |  [Nøttekråke](https://no.wikipedia.org/wiki/Nøttekråke) |
+| Cygnus cygnus | [Whooper swan](https://en.wikipedia.org/wiki/Whooper_swan) |  [Sangsvane](https://no.wikipedia.org/wiki/Sangsvane) |
+
+{{< figure src="/images/otherbirds/DSC02782_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/otherbirds/DSC08702_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/otherbirds/DSC09256_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/otherbirds/_DSC0144_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Woodpeckers (4)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Picus viridis | [European green woodpecker](https://en.wikipedia.org/wiki/European_green_woodpecker) |  [Grønnspett](https://no.wikipedia.org/wiki/Grønnspett) |
+| Dryocopus martius | [Black woodpecker](https://en.wikipedia.org/wiki/Black_woodpecker) |  [Svartspett](https://no.wikipedia.org/wiki/Svartspett) |
+| Picoides minor) | [Lesser spotted woodpecker](https://en.wikipedia.org/wiki/Lesser_spotted_woodpecker) |  [Dvergspett](https://no.wikipedia.org/wiki/Dvergspett) |
+| Dendrocopos major | [Great spotted woodpecker](https://en.wikipedia.org/wiki/Great_spotted_woodpecker) |  [Flaggspett](https://no.wikipedia.org/wiki/Flaggspett) |
+
+{{< figure src="/images/woodpeckers/_DSC0436_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/woodpeckers/_DSC0842_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/woodpeckers/DSC08383_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/woodpeckers/_DSC4603_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Warblers (3)
+
+| Latin      | UK  | Norwegian |
+| --------- |  --------- |    --------- |
+| Phylloscopus trochilus | [Willow warbler](https://en.wikipedia.org/wiki/Willow_warbler) |  [Løvsanger ](https://no.wikipedia.org/wiki/Løvsanger) |
+| Phylloscopus sibilatrix | [Wood warbler](https://en.wikipedia.org/wiki/Wood_warbler) |  [Bøksanger ](https://no.wikipedia.org/wiki/Bøksanger) |
+| Sylvia atricapilla | [Eurasian blackcap](https://en.wikipedia.org/wiki/Eurasian_blackcap) |  [Munk ](https://no.wikipedia.org/wiki/Munk_(fugl)) |
+
+{{< figure src="/images/singers/DSC06657_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/singers/_DSC8915_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/singers/_DSC8925_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Finches (4)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Pyrrhula pyrrhula | [Eurasian bullfinch](https://en.wikipedia.org/wiki/Eurasian_bullfinch) |  [Dompap](https://no.wikipedia.org/wiki/Dompap) |
+| Fringilla montifringilla | [Brambling](https://en.wikipedia.org/wiki/Brambling) |  [Bjørkefink](https://nn.wikipedia.org/wiki/Bjørkefink)  |
+| Chloris chloris | [European greenfinch](https://en.wikipedia.org/wiki/European_greenfinch) |  [Grønnfink](https://no.wikipedia.org/wiki/Grønnfink) |
+| Pinicola enucleator | [Pine grosbeak](https://en.wikipedia.org/wiki/Pine_grosbeak) |  [Konglebit](https://no.wikipedia.org/wiki/Konglebit) |
+
+{{< figure src="/images/finches/_DSC5689_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/finches/DSC08158_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/finches/DSC08203_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/finches/_DSC7159_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Grebes (2)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Podiceps cristatus  | [Great crested grebe](https://en.wikipedia.org/wiki/Great_crested_grebe) | [Toppdykker](https://no.wikipedia.org/wiki/Toppdykker) |
+| Podiceps auritus  | [Horned grebe](https://en.wikipedia.org/wiki/Horned_grebe) | [Horndykker](https://no.wikipedia.org/wiki/Horndykker) |
+
+{{< figure src="/images/grebes/DSC09592_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/grebes/DSC09396_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Owls (4)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Surnia ulula  |  [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl) | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)    |
+| Asio flammeus  | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl) |   [Jordugle](https://no.wikipedia.org/wiki/Jordugle)    |
+| Strix aluco  | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl) |   [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
+| Glaucidium passerinum  |  [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle)    |
+
+{{< figure src="/images/owls/_DSC6411_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/owls/DSC04816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/owls/DSC03983_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/owls/DSC09476_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Ptarmigan (1)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Lagopus lagopus | [Willow ptarmigan](https://en.wikipedia.org/wiki/Willow_ptarmigan) |  [Lirype](https://no.wikipedia.org/wiki/Lirype) |
+
+{{< figure src="/images/ptarmigan/DSC08056_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Flycatchers (5)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Phoenicurus phoenicurus | [Common redstart](https://en.wikipedia.org/wiki/Common_redstart) |  [Rødstjert](https://no.wikipedia.org/wiki/Rødstjert) |
+| Ficedula hypoleuca | [European pied flycatcher](https://en.wikipedia.org/wiki/European_pied_flycatcher) |  [Svarthvit fluesnapper](https://no.wikipedia.org/wiki/Svarthvit_fluesnapper) |
+| Erithacus rubecula | [European robin](https://en.wikipedia.org/wiki/European_robin) |  [Rødstrupe](https://no.wikipedia.org/wiki/Rødstrupe) |
+| Luscinia svecica | [Bluethroat](https://en.wikipedia.org/wiki/Bluethroat) |  [Blåstrupe](https://no.wikipedia.org/wiki/Bl%C3%A5strupe) |
+| Saxicola rubicola | [European stonechat](https://en.wikipedia.org/wiki/European_stonechat) |  [Svartstrupe](https://no.wikipedia.org/wiki/Svartstrupe) |
+
+{{< figure src="/images/flycatchers/_DSC0250_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC5925_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC2807_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/DSC08362_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Tits (4)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Cyanistes caeruleus | [Eurasian blue tit](https://en.wikipedia.org/wiki/Eurasian_blue_tit) |  [Blåmeis](https://no.wikipedia.org/wiki/Blåmeis) |
+| Aegithalos caudatus | [Long-tailed tit](https://en.wikipedia.org/wiki/Long-tailed_tit) |  [Stjertmeis](https://nn.wikipedia.org/wiki/Stjertmeis) |
+| Sitta europaea | [Eurasian nuthatch](https://en.wikipedia.org/wiki/Eurasian_nuthatch) |  [Spettmeis](https://no.wikipedia.org/wiki/Spettmeis) |
+| Emberiza citrinella | [Yellowhammer](https://en.wikipedia.org/wiki/Yellowhammer) |  [Gulspurv](https://no.wikipedia.org/wiki/Gulspurv) |
+
+{{< figure src="/images/tits/DSC01394_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/tits/DSC01708_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/tits/DSC08463_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/tits/DSC07456_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Jays (2)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -396,7 +395,7 @@ date = "2025-05-04"
 
 {{< figure src="/images/jays/DSC09183_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Crane (1)
+### Crane (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -404,10 +403,16 @@ date = "2025-05-04"
 
 {{< figure src="/images/commoncrane/DSC08727_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-#### Eagle (1)
+### Eagle (2)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Haliaeetus albicilla |  [White-tailed eagle](https://en.wikipedia.org/wiki/White-tailed_eagle) | [Havørn](https://no.wikipedia.org/wiki/Hav%C3%B8rn) |
 
 {{< figure src="/images/whitetailed/DSC01484_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Pandion haliaetus |  [Osprey](https://en.wikipedia.org/wiki/Osprey) | [Fiskeørn](https://no.wikipedia.org/wiki/Fiske%C3%B8rn) |
+
+{{< figure src="/images/osprey/DSC05364_DxO.jpg" position="center" style="border-radius: 8px;" >}}
