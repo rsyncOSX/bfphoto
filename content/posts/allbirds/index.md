@@ -165,7 +165,7 @@ On this page all birds and animals are listet. There is only one photo of each b
 
 {{< figure src="/images/blackgrouse/_DSC7209_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Passerines (6)
+### Passerines (7)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -175,6 +175,7 @@ On this page all birds and animals are listet. There is only one photo of each b
 | Curruca communis  | [Common whitethroat](https://en.wikipedia.org/wiki/Common_whitethroat) |   [Tornsanger](https://no.wikipedia.org/wiki/Tornsanger)     |
 | Certhia familiaris | [Eurasian treecreeper](https://en.wikipedia.org/wiki/Eurasian_treecreeper) |  [Trekryper](https://no.wikipedia.org/wiki/Trekryper) |
 | Alauda arvensis | [Eurasian skylark](https://en.wikipedia.org/wiki/Eurasian_skylark) |  [Sanglerke](https://no.wikipedia.org/wiki/Sanglerke) |
+| Troglodytes troglodytes | [Eurasian wren](https://en.wikipedia.org/wiki/Eurasian_wren) |  [Gjerdesmett](https://no.wikipedia.org/wiki/Gjerdesmett) |
 
 {{< figure src="/images/passerines/DSC07419_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -185,6 +186,8 @@ On this page all birds and animals are listet. There is only one photo of each b
 {{< figure src="/images/passerines/_DSC3649_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/passerines/_DSC8678_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/passerines/DSC00645_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Plover (1)
 
@@ -321,7 +324,7 @@ On this page all birds and animals are listet. There is only one photo of each b
 
 {{< figure src="/images/ptarmigan/DSC08056_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Flycatchers (5)
+### Flycatchers (6)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -330,6 +333,7 @@ On this page all birds and animals are listet. There is only one photo of each b
 | Erithacus rubecula | [European robin](https://en.wikipedia.org/wiki/European_robin) |  [Rødstrupe](https://no.wikipedia.org/wiki/Rødstrupe) |
 | Luscinia svecica | [Bluethroat](https://en.wikipedia.org/wiki/Bluethroat) |  [Blåstrupe](https://no.wikipedia.org/wiki/Bl%C3%A5strupe) |
 | Saxicola rubicola | [European stonechat](https://en.wikipedia.org/wiki/European_stonechat) |  [Svartstrupe](https://no.wikipedia.org/wiki/Svartstrupe) |
+| M⁠uscicapa striata | [Spotted flycatcher](https://en.wikipedia.org/wiki/Spotted_flycatcher) |  [Gråfluesnapper](https://no.wikipedia.org/wiki/Gråfluesnapper) |
 
 {{< figure src="/images/flycatchers/_DSC0250_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -338,6 +342,10 @@ On this page all birds and animals are listet. There is only one photo of each b
 {{< figure src="/images/flycatchers/_DSC2807_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/flycatchers/DSC08362_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC6432_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC4271_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Tits (4)
 

@@ -14,6 +14,7 @@ The Common redstart is, in my opinion, one the most beautiful small birds in Nor
 | Erithacus rubecula | [European robin](https://en.wikipedia.org/wiki/European_robin) |  [Rødstrupe](https://no.wikipedia.org/wiki/Rødstrupe) |
 | Luscinia svecica | [Bluethroat](https://en.wikipedia.org/wiki/Bluethroat) |  [Blåstrupe](https://no.wikipedia.org/wiki/Bl%C3%A5strupe) |
 | Saxicola rubicola | [European stonechat](https://en.wikipedia.org/wiki/European_stonechat) |  [Svartstrupe](https://no.wikipedia.org/wiki/Svartstrupe) |
+| M⁠uscicapa striata | [Spotted flycatcher](https://en.wikipedia.org/wiki/Spotted_flycatcher) |  [Gråfluesnapper](https://no.wikipedia.org/wiki/Gråfluesnapper) |
 
 ### Common redstart
 
@@ -44,3 +45,7 @@ The Common redstart is, in my opinion, one the most beautiful small birds in Nor
 ### European stonechat
 
 {{< figure src="/images/flycatchers/_DSC6432_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Spotted flycatcher
+
+{{< figure src="/images/flycatchers/_DSC4271_DxO.jpg" position="center" style="border-radius: 8px;" >}}

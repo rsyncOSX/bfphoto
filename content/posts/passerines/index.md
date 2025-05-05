@@ -16,6 +16,7 @@ and it is constantly on the move searching for insects.
 | Curruca communis  | [Common whitethroat](https://en.wikipedia.org/wiki/Common_whitethroat) |   [Tornsanger](https://no.wikipedia.org/wiki/Tornsanger)     |
 | Certhia familiaris | [Eurasian treecreeper](https://en.wikipedia.org/wiki/Eurasian_treecreeper) |  [Trekryper](https://no.wikipedia.org/wiki/Trekryper) |
 | Alauda arvensis | [Eurasian skylark](https://en.wikipedia.org/wiki/Eurasian_skylark) |  [Sanglerke](https://no.wikipedia.org/wiki/Sanglerke) |
+| Troglodytes troglodytes | [Eurasian wren](https://en.wikipedia.org/wiki/Eurasian_wren) |  [Gjerdesmett](https://no.wikipedia.org/wiki/Gjerdesmett) |
 
 ### Coldcrest
 
@@ -46,3 +47,7 @@ and it is constantly on the move searching for insects.
 ### Eurasian skylark
 
 {{< figure src="/images/passerines/_DSC4885_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Eurasian Wren
+
+{{< figure src="/images/passerines/DSC00645_DxO.jpg" position="center" style="border-radius: 8px;" >}}
