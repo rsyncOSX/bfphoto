@@ -4,7 +4,7 @@ title = "All birds & animals"
 date = "2025-05-04"
 +++
 
-On this page all birds and animals are listet. There is only one photo of each bird and animal, but within the Photos section there are more photos of each bird. There are photos of about 80 birds and 7 animals.
+On this page, a comprehensive list of all birds is presented. Each bird species is represented by a single photograph, while the accompanying "Photos" section provides additional images of the respective birds. The "Photos" section showcases approximately 80 bird photographs and 7 animal photographs. I commenced focusing on bird photos in 2021, and within this webpages photos are from 2021 and later.
 
 ### Divers (5)
 
