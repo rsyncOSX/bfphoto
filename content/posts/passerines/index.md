@@ -17,6 +17,7 @@ and it is constantly on the move searching for insects.
 | Certhia familiaris | [Eurasian treecreeper](https://en.wikipedia.org/wiki/Eurasian_treecreeper) |  [Trekryper](https://no.wikipedia.org/wiki/Trekryper) |
 | Alauda arvensis | [Eurasian skylark](https://en.wikipedia.org/wiki/Eurasian_skylark) |  [Sanglerke](https://no.wikipedia.org/wiki/Sanglerke) |
 | Troglodytes troglodytes | [Eurasian wren](https://en.wikipedia.org/wiki/Eurasian_wren) |  [Gjerdesmett](https://no.wikipedia.org/wiki/Gjerdesmett) |
+| Bombycilla garrulus | [Bohemian waxwing](https://en.wikipedia.org/wiki/Bohemian_waxwing) |  [Sidensvans](https://no.wikipedia.org/wiki/Sidensvans) |
 
 ### Coldcrest
 
@@ -51,3 +52,9 @@ and it is constantly on the move searching for insects.
 ### Eurasian Wren
 
 {{< figure src="/images/passerines/DSC00645_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+Bohemian waxwing
+
+{{< figure src="/images/passerines/_DSC6649_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/passerines/_DSC6435_DxO.jpg" position="center" style="border-radius: 8px;" >}}

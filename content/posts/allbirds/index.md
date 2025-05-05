@@ -165,7 +165,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/blackgrouse/_DSC7209_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Passerines (7)
+### Passerines (8)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -176,6 +176,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 | Certhia familiaris | [Eurasian treecreeper](https://en.wikipedia.org/wiki/Eurasian_treecreeper) |  [Trekryper](https://no.wikipedia.org/wiki/Trekryper) |
 | Alauda arvensis | [Eurasian skylark](https://en.wikipedia.org/wiki/Eurasian_skylark) |  [Sanglerke](https://no.wikipedia.org/wiki/Sanglerke) |
 | Troglodytes troglodytes | [Eurasian wren](https://en.wikipedia.org/wiki/Eurasian_wren) |  [Gjerdesmett](https://no.wikipedia.org/wiki/Gjerdesmett) |
+| Bombycilla garrulus | [Bohemian waxwing](https://en.wikipedia.org/wiki/Bohemian_waxwing) |  [Sidensvans](https://no.wikipedia.org/wiki/Sidensvans) |
 
 {{< figure src="/images/passerines/DSC07419_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -188,6 +189,9 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 {{< figure src="/images/passerines/_DSC8678_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/passerines/DSC00645_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/passerines/_DSC6649_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
 
 ### Plover (1)
 
