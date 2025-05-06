@@ -38,7 +38,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/eurasianhobby/_DSC3684_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/commonkestrel/_DSC1134_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/commonkestrel/_DSC5479_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Buzzard (1)
 
