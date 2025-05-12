@@ -345,7 +345,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/flycatchers/_DSC2807_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/flycatchers/DSC08362_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/flycatchers/_DSC7667_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/flycatchers/_DSC6432_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 

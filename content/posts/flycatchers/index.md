@@ -22,6 +22,14 @@ The Common redstart is, in my opinion, one the most beautiful small birds in Nor
 
 {{< figure src="/images/flycatchers/_DSC2707_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+### Bluethroat
+
+{{< figure src="/images/flycatchers/_DSC7667_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC0614_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC7967_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
 ### European robin
 
 {{< figure src="/images/flycatchers/_DSC2767_DxO.jpg" position="center" style="border-radius: 8px;" >}}
@@ -35,12 +43,6 @@ The Common redstart is, in my opinion, one the most beautiful small birds in Nor
 {{< figure src="/images/flycatchers/DSC00499_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/flycatchers/DSC06305_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-### Bluethroat
-
-{{< figure src="/images/flycatchers/DSC08362_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/flycatchers/DSC08874_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### European stonechat
 
