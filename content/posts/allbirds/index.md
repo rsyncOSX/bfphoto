@@ -6,6 +6,88 @@ date = "2025-05-04"
 
 On this page, a comprehensive list of all birds is presented. Each bird species is represented by a single photograph, while the accompanying "Photos" section provides additional images of the respective birds. The "Photos" section showcases approximately 80 bird photographs and 7 animal photographs. I commenced focusing on bird photos in 2021, and within this webpages photos are from 2021 and later.
 
+### Eagle (2)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Haliaeetus albicilla |  [White-tailed eagle](https://en.wikipedia.org/wiki/White-tailed_eagle) | [Havørn](https://no.wikipedia.org/wiki/Hav%C3%B8rn) |
+| Pandion haliaetus |  [Osprey](https://en.wikipedia.org/wiki/Osprey) | [Fiskeørn](https://no.wikipedia.org/wiki/Fiske%C3%B8rn) |
+
+{{< figure src="/images/whitetailed/DSC01484_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/osprey/DSC05364_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Falcons(3)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+|  Falco peregrinus |  [Peregrine falcon](https://en.wikipedia.org/wiki/Peregrine_falcon) |  [Vandrefalk](https://no.wikipedia.org/wiki/Vandrefalk) |
+|  Falco subbuteo |  [Eurasian hobby](https://en.wikipedia.org/wiki/Eurasian_hobby) |  [Lerkefalk](https://no.wikipedia.org/wiki/Lerkefalk) |
+|  Falco tinnunculus |  [Common kestrel](https://en.wikipedia.org/wiki/Common_kestrel) |  [Tårnfalk](https://no.wikipedia.org/wiki/Tårnfalk) |
+
+{{< figure src="/images/peregrinefalcon/_DSC2458_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/eurasianhobby/_DSC3684_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/commonkestrel/_DSC8243_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Hawks(4)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+|  Circus aeruginosus |  [Western marsh harrier](https://en.wikipedia.org/wiki/Western_marsh_harrier) |  [Sivhauk](https://no.wikipedia.org/wiki/Sivhauk) |
+|  Accipiter nisus |  [Eurasian sparrowhawk](https://en.wikipedia.org/wiki/Eurasian_sparrowhawk) |  [Spurvehauk](https://no.wikipedia.org/wiki/Spurvehauk) |
+|  Circus cyaneus |  [Hen harrier](https://en.wikipedia.org/wiki/Hen_harrier) |  [Myrhauk](https://no.wikipedia.org/wiki/Myrhauk) |
+| Astur gentilis |  [Eurasian goshawk](https://en.wikipedia.org/wiki/Eurasian_goshawk) | [Hønsehauk](https://no.wikipedia.org/wiki/Hønsehauk) |
+
+{{< figure src="/images/marshharrier/_DSC0531_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/sparrowhawk/DSC05816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/henharrier/_DSC8347_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/goshawk/DSC07369_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Owls (4)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Surnia ulula  |  [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl) | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)    |
+| Asio flammeus  | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl) |   [Jordugle](https://no.wikipedia.org/wiki/Jordugle)    |
+| Strix aluco  | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl) |   [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
+| Glaucidium passerinum  |  [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle)    |
+
+{{< figure src="/images/owls/_DSC6411_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/owls/DSC04816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/owls/DSC03983_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/owls/DSC09476_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Flycatchers (6)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Phoenicurus phoenicurus | [Common redstart](https://en.wikipedia.org/wiki/Common_redstart) |  [Rødstjert](https://no.wikipedia.org/wiki/Rødstjert) |
+| Ficedula hypoleuca | [European pied flycatcher](https://en.wikipedia.org/wiki/European_pied_flycatcher) |  [Svarthvit fluesnapper](https://no.wikipedia.org/wiki/Svarthvit_fluesnapper) |
+| Erithacus rubecula | [European robin](https://en.wikipedia.org/wiki/European_robin) |  [Rødstrupe](https://no.wikipedia.org/wiki/Rødstrupe) |
+| Luscinia svecica | [Bluethroat](https://en.wikipedia.org/wiki/Bluethroat) |  [Blåstrupe](https://no.wikipedia.org/wiki/Bl%C3%A5strupe) |
+| Saxicola rubicola | [European stonechat](https://en.wikipedia.org/wiki/European_stonechat) |  [Svartstrupe](https://no.wikipedia.org/wiki/Svartstrupe) |
+| M⁠uscicapa striata | [Spotted flycatcher](https://en.wikipedia.org/wiki/Spotted_flycatcher) |  [Gråfluesnapper](https://no.wikipedia.org/wiki/Gråfluesnapper) |
+
+{{< figure src="/images/flycatchers/_DSC0250_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC5925_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC2807_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC7667_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC6432_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/flycatchers/_DSC4271_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
 ### Divers (5)
 
 | Latin      | UK | Norwegian |
@@ -26,20 +108,6 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/divers/_DSC0140_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Falcons(3)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|  Falco peregrinus |  [Peregrine falcon](https://en.wikipedia.org/wiki/Peregrine_falcon) |  [Vandrefalk](https://no.wikipedia.org/wiki/Vandrefalk) |
-|  Falco subbuteo |  [Eurasian hobby](https://en.wikipedia.org/wiki/Eurasian_hobby) |  [Lerkefalk](https://no.wikipedia.org/wiki/Lerkefalk) |
-|  Falco tinnunculus |  [Common kestrel](https://en.wikipedia.org/wiki/Common_kestrel) |  [Tårnfalk](https://no.wikipedia.org/wiki/Tårnfalk) |
-
-{{< figure src="/images/peregrinefalcon/_DSC2458_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/eurasianhobby/_DSC3684_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/commonkestrel/_DSC8243_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
 ### Buzzard (1)
 
 | Latin      | UK | Norwegian |
@@ -48,22 +116,6 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/commonbuzzard/_DSC8767_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Hawks(4)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-|  Circus aeruginosus |  [Western marsh harrier](https://en.wikipedia.org/wiki/Western_marsh_harrier) |  [Sivhauk](https://no.wikipedia.org/wiki/Sivhauk) |
-|  Accipiter nisus |  [Eurasian sparrowhawk](https://en.wikipedia.org/wiki/Eurasian_sparrowhawk) |  [Spurvehauk](https://no.wikipedia.org/wiki/Spurvehauk) |
-|  Circus cyaneus |  [Hen harrier](https://en.wikipedia.org/wiki/Hen_harrier) |  [Myrhauk](https://no.wikipedia.org/wiki/Myrhauk) |
-| Astur gentilis |  [Eurasian goshawk](https://en.wikipedia.org/wiki/Eurasian_goshawk) | [Hønsehauk](https://no.wikipedia.org/wiki/Hønsehauk) |
-
-{{< figure src="/images/marshharrier/_DSC0531_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/sparrowhawk/DSC05816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/henharrier/_DSC8347_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/goshawk/DSC07369_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Waders (11)
 
@@ -201,32 +253,6 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/plover/DSC03944_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Animals (7)
-
-|   Latin  | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Ovibos moschatus | [Muskox](https://en.wikipedia.org/wiki/Muskox) | [Moskusfe](https://no.wikipedia.org/wiki/Moskusfe) |
-| Alces alces | [Moose](https://en.wikipedia.org/wiki/Moose) | [Elg](https://no.wikipedia.org/wiki/Elg) |
-| Lepus timidus | [Mountain hare](https://en.wikipedia.org/wiki/Mountain_hare) | [Hare](https://no.wikipedia.org/wiki/Hare) |
-| Capreolus capreolus  | [Roe deer](https://en.wikipedia.org/wiki/Roe_deer) | [Rådyr](https://no.wikipedia.org/wiki/Rådyr) |
-| Vulpes vulpes | [Red fox](https://en.wikipedia.org/wiki/Red_fox) |  [Rødrev](https://no.wikipedia.org/wiki/Rødrev) |
-| Sciurus vulgaris | [Red squirrel](https://en.wikipedia.org/wiki/Red_squirrel) |  [Ekorn](https://no.wikipedia.org/wiki/Ekorn)|
-| Cervus elaphus | [Red deer](https://en.wikipedia.org/wiki/Red_deer) |  [Hjort](https://no.wikipedia.org/wiki/Hjort)|
-
-{{< figure src="/images/muskox/DSC08980_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/otheranimals/DSC00704_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/otheranimals/DSC03498_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/otheranimals/DSC06718_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/otheranimals/DSC08563_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/otheranimals/DSC08591_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/otheranimals/DSC09127_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
 ### Other birds (4)
 
 | Latin      | UK | Norwegian |
@@ -303,23 +329,6 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/grebes/DSC09396_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Owls (4)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Surnia ulula  |  [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl) | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)    |
-| Asio flammeus  | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl) |   [Jordugle](https://no.wikipedia.org/wiki/Jordugle)    |
-| Strix aluco  | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl) |   [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
-| Glaucidium passerinum  |  [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle)    |
-
-{{< figure src="/images/owls/_DSC6411_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/owls/DSC04816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/owls/DSC03983_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/owls/DSC09476_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
 ### Ptarmigan (1)
 
 | Latin      | UK | Norwegian |
@@ -327,29 +336,6 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 | Lagopus lagopus | [Willow ptarmigan](https://en.wikipedia.org/wiki/Willow_ptarmigan) |  [Lirype](https://no.wikipedia.org/wiki/Lirype) |
 
 {{< figure src="/images/ptarmigan/DSC08056_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-### Flycatchers (6)
-
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Phoenicurus phoenicurus | [Common redstart](https://en.wikipedia.org/wiki/Common_redstart) |  [Rødstjert](https://no.wikipedia.org/wiki/Rødstjert) |
-| Ficedula hypoleuca | [European pied flycatcher](https://en.wikipedia.org/wiki/European_pied_flycatcher) |  [Svarthvit fluesnapper](https://no.wikipedia.org/wiki/Svarthvit_fluesnapper) |
-| Erithacus rubecula | [European robin](https://en.wikipedia.org/wiki/European_robin) |  [Rødstrupe](https://no.wikipedia.org/wiki/Rødstrupe) |
-| Luscinia svecica | [Bluethroat](https://en.wikipedia.org/wiki/Bluethroat) |  [Blåstrupe](https://no.wikipedia.org/wiki/Bl%C3%A5strupe) |
-| Saxicola rubicola | [European stonechat](https://en.wikipedia.org/wiki/European_stonechat) |  [Svartstrupe](https://no.wikipedia.org/wiki/Svartstrupe) |
-| M⁠uscicapa striata | [Spotted flycatcher](https://en.wikipedia.org/wiki/Spotted_flycatcher) |  [Gråfluesnapper](https://no.wikipedia.org/wiki/Gråfluesnapper) |
-
-{{< figure src="/images/flycatchers/_DSC0250_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/flycatchers/_DSC5925_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/flycatchers/_DSC2807_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/flycatchers/_DSC7667_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/flycatchers/_DSC6432_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/flycatchers/_DSC4271_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Tits (4)
 
@@ -387,13 +373,28 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/commoncrane/DSC08727_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Eagle (2)
+### Animals (7)
 
-| Latin      | UK | Norwegian |
+|   Latin  | UK | Norwegian |
 | --------- |  --------- |    --------- |
-| Haliaeetus albicilla |  [White-tailed eagle](https://en.wikipedia.org/wiki/White-tailed_eagle) | [Havørn](https://no.wikipedia.org/wiki/Hav%C3%B8rn) |
-| Pandion haliaetus |  [Osprey](https://en.wikipedia.org/wiki/Osprey) | [Fiskeørn](https://no.wikipedia.org/wiki/Fiske%C3%B8rn) |
+| Ovibos moschatus | [Muskox](https://en.wikipedia.org/wiki/Muskox) | [Moskusfe](https://no.wikipedia.org/wiki/Moskusfe) |
+| Alces alces | [Moose](https://en.wikipedia.org/wiki/Moose) | [Elg](https://no.wikipedia.org/wiki/Elg) |
+| Lepus timidus | [Mountain hare](https://en.wikipedia.org/wiki/Mountain_hare) | [Hare](https://no.wikipedia.org/wiki/Hare) |
+| Capreolus capreolus  | [Roe deer](https://en.wikipedia.org/wiki/Roe_deer) | [Rådyr](https://no.wikipedia.org/wiki/Rådyr) |
+| Vulpes vulpes | [Red fox](https://en.wikipedia.org/wiki/Red_fox) |  [Rødrev](https://no.wikipedia.org/wiki/Rødrev) |
+| Sciurus vulgaris | [Red squirrel](https://en.wikipedia.org/wiki/Red_squirrel) |  [Ekorn](https://no.wikipedia.org/wiki/Ekorn)|
+| Cervus elaphus | [Red deer](https://en.wikipedia.org/wiki/Red_deer) |  [Hjort](https://no.wikipedia.org/wiki/Hjort)|
 
-{{< figure src="/images/whitetailed/DSC01484_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/muskox/DSC08980_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/osprey/DSC05364_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/otheranimals/DSC00704_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/otheranimals/DSC03498_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/otheranimals/DSC06718_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/otheranimals/DSC08563_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/otheranimals/DSC08591_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/otheranimals/DSC09127_DxO.jpg" position="center" style="border-radius: 8px;" >}}
