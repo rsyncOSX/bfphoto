@@ -373,6 +373,14 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/commoncrane/DSC08727_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+### Swallows (1)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Hirundo rustica | [Barn swallow](https://en.wikipedia.org/wiki/Barn_swallow) |  [Låvesvale](https://no.wikipedia.org/wiki/Låvesvale) |
+
+{{< figure src="/images/swallow/_DSC8706_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
 ### Animals (7)
 
 |   Latin  | UK | Norwegian |
