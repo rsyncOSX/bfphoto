@@ -62,7 +62,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/owls/DSC04816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/owls/DSC04820_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/owls/_DSC9115_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/owls/DSC03983_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
