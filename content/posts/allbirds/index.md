@@ -1,7 +1,7 @@
 +++
 author = "Thomas Evensen"
 title = "All birds & animals"
-date = "2025-05-04"
+date = "2025-06-17"
 +++
 
 On this page, a comprehensive list of all birds is presented. Each bird species is represented by a single photograph, while the accompanying "Photos" section provides additional images of the respective birds. The "Photos" section showcases approximately 80 bird photographs and 7 animal photographs. I commenced focusing on bird photos in 2021, and within this webpages photos are from 2021 and later.
@@ -21,9 +21,9 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
-|  Falco peregrinus |  [Peregrine falcon](https://en.wikipedia.org/wiki/Peregrine_falcon) |  [Vandrefalk](https://no.wikipedia.org/wiki/Vandrefalk) |
-|  Falco subbuteo |  [Eurasian hobby](https://en.wikipedia.org/wiki/Eurasian_hobby) |  [Lerkefalk](https://no.wikipedia.org/wiki/Lerkefalk) |
-|  Falco tinnunculus |  [Common kestrel](https://en.wikipedia.org/wiki/Common_kestrel) |  [Tårnfalk](https://no.wikipedia.org/wiki/Tårnfalk) |
+| Falco peregrinus |  [Peregrine falcon](https://en.wikipedia.org/wiki/Peregrine_falcon) |  [Vandrefalk](https://no.wikipedia.org/wiki/Vandrefalk) |
+| Falco subbuteo |  [Eurasian hobby](https://en.wikipedia.org/wiki/Eurasian_hobby) |  [Lerkefalk](https://no.wikipedia.org/wiki/Lerkefalk) |
+| Falco tinnunculus |  [Common kestrel](https://en.wikipedia.org/wiki/Common_kestrel) |  [Tårnfalk](https://no.wikipedia.org/wiki/Tårnfalk) |
 
 {{< figure src="/images/peregrinefalcon/_DSC2458_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -35,9 +35,9 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
-|  Circus aeruginosus |  [Western marsh harrier](https://en.wikipedia.org/wiki/Western_marsh_harrier) |  [Sivhauk](https://no.wikipedia.org/wiki/Sivhauk) |
-|  Accipiter nisus |  [Eurasian sparrowhawk](https://en.wikipedia.org/wiki/Eurasian_sparrowhawk) |  [Spurvehauk](https://no.wikipedia.org/wiki/Spurvehauk) |
-|  Circus cyaneus |  [Hen harrier](https://en.wikipedia.org/wiki/Hen_harrier) |  [Myrhauk](https://no.wikipedia.org/wiki/Myrhauk) |
+| Circus aeruginosus |  [Western marsh harrier](https://en.wikipedia.org/wiki/Western_marsh_harrier) |  [Sivhauk](https://no.wikipedia.org/wiki/Sivhauk) |
+| Accipiter nisus |  [Eurasian sparrowhawk](https://en.wikipedia.org/wiki/Eurasian_sparrowhawk) |  [Spurvehauk](https://no.wikipedia.org/wiki/Spurvehauk) |
+| Circus cyaneus |  [Hen harrier](https://en.wikipedia.org/wiki/Hen_harrier) |  [Myrhauk](https://no.wikipedia.org/wiki/Myrhauk) |
 | Astur gentilis |  [Eurasian goshawk](https://en.wikipedia.org/wiki/Eurasian_goshawk) | [Hønsehauk](https://no.wikipedia.org/wiki/Hønsehauk) |
 
 {{< figure src="/images/marshharrier/_DSC0531_DxO.jpg" position="center" style="border-radius: 8px;" >}}
@@ -48,18 +48,21 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/goshawk/DSC07369_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Owls (4)
+### Owls (5)
 
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Surnia ulula  |  [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl) | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)    |
-| Asio flammeus  | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl) |   [Jordugle](https://no.wikipedia.org/wiki/Jordugle)    |
-| Strix aluco  | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl) |   [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
-| Glaucidium passerinum  |  [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle)    |
+| Latin                 | UK                                                                     | Norwegian                                              |
+|-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
+| Surnia ulula          | [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl)   | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)     |
+| Asio flammeus         | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
+| Asio otus             | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
+| Strix aluco           | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl)                   | [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
+| Glaucidium passerinum | [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle) |
 
 {{< figure src="/images/owls/_DSC6411_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/owls/DSC04816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/owls/DSC04820_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/owls/DSC03983_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
