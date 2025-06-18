@@ -1,10 +1,10 @@
 +++
 author = "Thomas Evensen"
 title = "All birds & animals"
-date = "2025-06-17"
+date = "2025-06-18"
 +++
 
-On this page, a comprehensive list of all birds is presented. Each bird species is represented by a single photograph, while the accompanying "Photos" section provides additional images of the respective birds. The "Photos" section showcases approximately 80 bird photographs and 7 animal photographs. I commenced focusing on bird photos in 2021, and within this webpages photos are from 2021 and later.
+On this page, a comprehensive list of all birds is presented. Each bird species is represented by a single photograph, while the accompanying "Photos" section provides additional images of the respective birds. The "Photos" section showcases approximately 85 bird photographs and 7 animal photographs. I commenced focusing on bird photos in 2021, and within this webpages photos are from 2021 and later.
 
 ### Eagle (2)
 
@@ -54,7 +54,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 |-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
 | Surnia ulula          | [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl)   | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)     |
 | Asio flammeus         | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
-| Asio otus             | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
+| Asio otus             | [Long-eared owl](https://en.wikipedia.org/wiki/Long-eared_owl)       | [Hornugle](https://no.wikipedia.org/wiki/Hornugle)     |
 | Strix aluco           | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl)                   | [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
 | Glaucidium passerinum | [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle) |
 

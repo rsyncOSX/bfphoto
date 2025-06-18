@@ -16,7 +16,7 @@ close to my cabin in the mountains. I don't know if this is normal or quite spec
 |-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
 | Surnia ulula          | [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl)   | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)     |
 | Asio flammeus         | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
-| Asio otus             | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
+| Asio otus             | [Long-eared owl](https://en.wikipedia.org/wiki/Long-eared_owl)       | [Hornugle](https://no.wikipedia.org/wiki/Hornugle)     |
 | Strix aluco           | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl)                   | [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
 | Glaucidium passerinum | [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle) |
 
