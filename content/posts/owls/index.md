@@ -15,8 +15,8 @@ close to my cabin in the mountains. I don't know if this is normal or quite spec
 | Latin                 | UK                                                                     | Norwegian                                              |
 |-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
 | Surnia ulula          | [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl)   | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)     |
-| Asio flammeus         | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
 | Asio otus             | [Long-eared owl](https://en.wikipedia.org/wiki/Long-eared_owl)       | [Hornugle](https://no.wikipedia.org/wiki/Hornugle)     |
+| Asio flammeus         | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
 | Strix aluco           | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl)                   | [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
 | Glaucidium passerinum | [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle) |
 
@@ -28,17 +28,20 @@ close to my cabin in the mountains. I don't know if this is normal or quite spec
 {{< figure src="/images/owls/_DSC4060_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/_DSC5901_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+### Long-eared owl
+
+{{< figure src="/images/owls/_DSC8853_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/owls/_DSC5208_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/owls/_DSC5225_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/owls/_DSC5253_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/owls/_DSC5261_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
 ### Short-eared owl
 
 {{< figure src="/images/owls/DSC04816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/DSC04820_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/DSC04676_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### # Long-eared owl
-
-{{< figure src="/images/owls/_DSC8853_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/owls/_DSC9097_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/owls/_DSC9115_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Tawny owl
 

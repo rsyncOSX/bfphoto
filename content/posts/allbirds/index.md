@@ -53,16 +53,16 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 | Latin                 | UK                                                                     | Norwegian                                              |
 |-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
 | Surnia ulula          | [Northern hawk-owl](https://en.wikipedia.org/wiki/Northern_hawk-owl)   | [Haukugle](https://no.wikipedia.org/wiki/Haukugle)     |
-| Asio flammeus         | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
 | Asio otus             | [Long-eared owl](https://en.wikipedia.org/wiki/Long-eared_owl)       | [Hornugle](https://no.wikipedia.org/wiki/Hornugle)     |
+| Asio flammeus         | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
 | Strix aluco           | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl)                   | [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
 | Glaucidium passerinum | [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle) |
 
 {{< figure src="/images/owls/_DSC6411_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/owls/DSC04816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/owls/_DSC5225_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/owls/_DSC9115_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/owls/DSC04816_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/owls/DSC03983_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
