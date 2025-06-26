@@ -13,6 +13,7 @@ Black woodpecker, European green woodpecker, Lesser spotted woodpecker, Great sp
 | Dryocopus martius | [Black woodpecker](https://en.wikipedia.org/wiki/Black_woodpecker) |  [Svartspett](https://no.wikipedia.org/wiki/Svartspett) |
 | Picoides minor) | [Lesser spotted woodpecker](https://en.wikipedia.org/wiki/Lesser_spotted_woodpecker) |  [Dvergspett](https://no.wikipedia.org/wiki/Dvergspett) |
 | Dendrocopos major | [Great spotted woodpecker](https://en.wikipedia.org/wiki/Great_spotted_woodpecker) |  [Flaggspett](https://no.wikipedia.org/wiki/Flaggspett) |
+| Jynx torquilla | [Eurasian wryneck](https://en.wikipedia.org/wiki/Eurasian_wryneck) |  [Vendehals](https://no.wikipedia.org/wiki/Vendehals) |
 
 ### European green woodpecker
 
@@ -37,3 +38,8 @@ Black woodpecker, European green woodpecker, Lesser spotted woodpecker, Great sp
 {{< figure src="/images/woodpeckers/_DSC4603_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/woodpeckers/_DSC3669_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+### Eurasian wryneck
+
+{{< figure src="/images/woodpeckers/_DSC3175_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+

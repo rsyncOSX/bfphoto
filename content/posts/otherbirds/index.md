@@ -24,7 +24,7 @@ Some other birds.
 
 ### Grey heron
 
-{{< figure src="/images/otherbirds/DSC09256_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/otherbirds/_DSC3954_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Whooper swan
 

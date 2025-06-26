@@ -267,13 +267,13 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/otherbirds/DSC02782_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/otherbirds/DSC08702_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/otherbirds/_DSC3954_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/otherbirds/DSC09256_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/otherbirds/DSC08702_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/otherbirds/_DSC0144_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Woodpeckers (4)
+### Woodpeckers (5)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
@@ -281,6 +281,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 | Dryocopus martius | [Black woodpecker](https://en.wikipedia.org/wiki/Black_woodpecker) |  [Svartspett](https://no.wikipedia.org/wiki/Svartspett) |
 | Picoides minor) | [Lesser spotted woodpecker](https://en.wikipedia.org/wiki/Lesser_spotted_woodpecker) |  [Dvergspett](https://no.wikipedia.org/wiki/Dvergspett) |
 | Dendrocopos major | [Great spotted woodpecker](https://en.wikipedia.org/wiki/Great_spotted_woodpecker) |  [Flaggspett](https://no.wikipedia.org/wiki/Flaggspett) |
+| Jynx torquilla | [Eurasian wryneck](https://en.wikipedia.org/wiki/Eurasian_wryneck) |  [Vendehals](https://no.wikipedia.org/wiki/Vendehals) |
 
 {{< figure src="/images/woodpeckers/_DSC0436_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -289,6 +290,8 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 {{< figure src="/images/woodpeckers/DSC08383_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/woodpeckers/_DSC4603_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/woodpeckers/_DSC3175_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Warblers (3)
 
