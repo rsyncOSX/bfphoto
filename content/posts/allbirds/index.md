@@ -189,6 +189,13 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/cormorant/_DSC0671_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
+### Northern Gannet (1)
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Morus bassanus | [Northern gannet](https://en.wikipedia.org/wiki/Northern_gannet) | [Havsule](https://no.wikipedia.org/wiki/Havsule) |
+
+{{< figure src="/images/gannet/_DSC1280_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Wagtails (4)
 
