@@ -2,7 +2,7 @@
 author = "Thomas Evensen"
 title = "Cormorant"
 date = "2024-04-28"
-tags = ["cormorant",["seabird"]
+tags = ["cormorant","seabird"]
 +++
 
 Seabirds.
