@@ -14,6 +14,8 @@ Some jay birds.
 
 ### Siberian jay
 
+{{< figure src="/images/jays/_DSC8241_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
 {{< figure src="/images/jays/DSC06878_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/jays/DSC08282_DxO.jpg" position="center" style="border-radius: 8px;" >}}

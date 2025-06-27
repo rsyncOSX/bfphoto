@@ -164,15 +164,13 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/dipper/_DSC0901_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Seabirds (5)
+### Seabirds (3)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Sterna hirundos  |  [Common tern](https://en.wikipedia.org/wiki/Common_tern) | [Makrellterne](https://no.wikipedia.org/wiki/Makrellterne)    |
 | Haematopus ostralegus  |  [Eurasian oystercatcher](https://en.wikipedia.org/wiki/Eurasian_oystercatcher) | [Tjeld](https://no.wikipedia.org/wiki/Tjeld)    |
-| Phalacrocorax carbo | [Great Cormorant](https://en.wikipedia.org/wiki/Great_cormorant) | [Storskarv](https://no.wikipedia.org/wiki/Storskarv) |
 | Chroicocephalus ridibundus | [Black-headed gull](https://en.wikipedia.org/wiki/Black-headed_gull) | [Hettemåke](https://no.wikipedia.org/wiki/Hettem%C3%A5ke) |
-| Morus bassanus | [Northern gannet](https://en.wikipedia.org/wiki/Northern_gannet) | [Havsule](https://no.wikipedia.org/wiki/Havsule) |
 
 {{< figure src="/images/seabirds/_DSC8739_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -180,9 +178,17 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/seabirds/DSC03219_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/seabirds/DSC06348_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+### Great cormorant (2)
 
-{{< figure src="/images/seabirds/_DSC1738_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Phalacrocorax carbo | [Great Cormorant](https://en.wikipedia.org/wiki/Great_cormorant) | [Storskarv](https://no.wikipedia.org/wiki/Storskarv) |
+| Gulosus aristotelis | [European shag](https://en.wikipedia.org/wiki/European_shag) | [Toppskarv](https://no.wikipedia.org/wiki/Toppskarv) |
+
+{{< figure src="/images/cormorant/DSC06348_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/cormorant/_DSC0671_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
 
 ### Wagtails (4)
 
@@ -246,7 +252,6 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 {{< figure src="/images/passerines/DSC00645_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/passerines/_DSC6649_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
 
 ### Plover (1)
 
@@ -367,7 +372,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 | Perisoreus infaustus | [Siberian jay](https://en.wikipedia.org/wiki/Siberian_jay) |  [Lavskrike](https://no.wikipedia.org/wiki/Lavskrike) |
 | Luscinia svecica | [Eurasian jay](https://en.wikipedia.org/wiki/Eurasian_jay) |  [Nøtteskrike](https://no.wikipedia.org/wiki/Nøtteskrike) |
 
-{{< figure src="/images/jays/DSC06878_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/jays/_DSC8241_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/jays/DSC09183_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
