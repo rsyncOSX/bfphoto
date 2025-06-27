@@ -13,7 +13,7 @@ The Eurasian hobby capture and eat dragonflies.
 |  Falco subbuteo |  [Eurasian hobby](https://en.wikipedia.org/wiki/Eurasian_hobby) |  [Lerkefalk](https://no.wikipedia.org/wiki/Lerkefalk) |
 
 {{< figure src="/images/eurasianhobby/_DSC3684_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/eurasianhobby/_DSC5075_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/eurasianhobby/_DSC4460_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/eurasianhobby/_DSC3656_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/eurasianhobby/_DSC3688_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/eurasianhobby/DSC00029_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/eurasianhobby/_DSC3203_DxO.jpg" position="center" style="border-radius: 8px;" >}}
