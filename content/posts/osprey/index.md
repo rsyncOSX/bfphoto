@@ -16,3 +16,8 @@ The ospreys are nesting in Norway from April to September, and some of them clos
 {{< figure src="/images/osprey/_DSC2813_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/osprey/_DSC3358_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/osprey/_DSC3457_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+{{< figure src="/images/osprey/_DSC0438_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/osprey/_DSC0439_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/osprey/_DSC0456_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+

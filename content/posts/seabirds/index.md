@@ -37,4 +37,5 @@ Seabirds.
 
 ### Northern gannet
 
-{{< figure src="/images/seabirds/_DSC8971_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/seabirds/_DSC1280_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/seabirds/_DSC1738_DxO.jpg" position="center" style="border-radius: 8px;" >}}

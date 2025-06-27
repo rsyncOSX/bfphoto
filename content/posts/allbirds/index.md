@@ -15,7 +15,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/whitetailed/DSC01484_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/osprey/DSC05364_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/osprey/_DSC0456_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Falcons(3)
 
@@ -182,7 +182,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/seabirds/DSC06348_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/seabirds/_DSC8971_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/seabirds/_DSC1738_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Wagtails (4)
 
