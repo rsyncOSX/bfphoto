@@ -178,7 +178,7 @@ On this page, a comprehensive list of all birds is presented. Each bird species 
 
 {{< figure src="/images/seabirds/DSC03219_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-### Great cormorant (2)
+### Cormorant (2)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
