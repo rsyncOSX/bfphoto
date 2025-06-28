@@ -25,8 +25,8 @@ disableTextInHeader = false
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
@@ -42,6 +42,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
+  # layout = "background" # valid options: page, profile, hero, card, background, custom
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "_DSC6655_DxO.png" # used in: hero, and card
   showRecent = false
