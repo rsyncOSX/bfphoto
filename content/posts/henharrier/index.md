@@ -6,21 +6,21 @@ tags = ["hen harrier"]
 categories = ["bird of prey"]
 +++
 
-The male Hen Harrier is grey and white with black wingtips. There is at least two Hen Harrier couple nesting close to my cabin in the mountains. In my opinion, the Hen Harrier is one of the most beautiful bird of prey in Scandinavia.
+The male Hen Harrier is a striking grey and white bird with black wingtips. I've spotted at least two Hen Harrier couples nesting near my cabin in the mountains. In my opinion, it's one of the most beautiful bird of prey in Scandinavia.
 
 #### 2025
 
-On 11 July, 2025, we managed to band two young Hen Harrier. In pictures below, under 2025, there are pcictures of the dad of the young ones and from the nest.
+On July 11, 2025, we had the chance to band two young Hen Harriers. I've attached pictures of the dad and the nest from that year. It's not easy to find Hen Harrier nests, so it's crucial to spend as much time as possible in the area where they're nesting. Keep an eye out and observe their behavior closely.
 
 #### 2024
 
-In late May 2024, I observed the female building a nest. And about mid-June 2024 I observed the male returning with prey delivering it to the female.
+In late May 2024, I saw the female Hen Harrier busy building a nest. Around mid-June, I observed the male returning with prey, which he then delivered to the female.
 
-In July 2024 I was joining a licensed bird bander for banding the young ones. We checked the nest in the first week of July and there was one chick and three eggs. The chick was at that time too small to get a band and we decided to return for banding one week later. The second week of July 2024 we approached the nest again for banding. But very sadly a predator, most likely a fox, has attacked the nest. This is how nature is, brutal. I also observed the male Hen Harrier returning with chicks that he had caught for eating and delivering to the female.
+In July 2024, I joined a licensed bird bander to band the young ones. We checked the nest in the first week of July and found one chick and three eggs. Unfortunately, the chick was too small to get a band, so we decided to return the following week. The second week of July, we approached the nest again for banding. But sadly, a predator, probably a fox, attacked the nest. Nature can be brutal, I suppose. I also saw the male Hen Harrier returning with chicks that he had caught for food and delivered to the female.
 
-General
+#### General
 
-The Hen Harrier is critically endangered in Norway. According to official numbers, there are only about a hundred couples in Norway.
+The Hen Harrier is critically endangered in Norway. According to official numbers, there are only about a hundred couples nesting in the country.
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
